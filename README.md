@@ -1,4 +1,4 @@
-# Projeto Lafepe
+# Projeto de Gerenciamento de dados em grande volume
 
 ## Desvendando os Segredos dos Dados
 
