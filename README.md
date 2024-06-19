@@ -7,31 +7,29 @@ Nesse projeto você vai encontrar um sistema de gerenciamento ! Este projeto é 
 
 ### Visão geral
 
-Este aplicativo fornece visualizações interativas para analisar vários insumos cadastrados com base nos dados de entrada. Inclui:
+Esta aplicação fornece visualizações interativas para analisar vários insumos cadastrados com base nos dados de entrada, incluindo:
 
 - **Gráfico de Barras**
 - **Gráfico de Pizza**
 - **Gráfico de Linha**
 - **Gráfico de Dispersão**
-- **Gráfico de Caixa**: 
+- **Gráfico de Caixa** 
 - **Gráfico de Histograma**
   
 ### Começando
 Para executar este aplicativo localmente, siga os passos abaixo:
 
-**Clone este repositório:**
+**Clone este repositório**
 git clone https://github.com/seu-usuario/nome-do-repositorio.git
 
 **Navegue até o diretório do projeto**
 cd nome-do-repositorio
 
-**Instale as dependências necessárias:**
+**Instale as dependências necessárias**
 pip install streamlit
 
-**Execute o aplicativo usando Python:**
+**Execute o aplicativo usando Python**
 streamlit run main.py
-
-Após abrir a aplicação e cadastrar um insumo, você pode experimentar importar uma base de dados no modelo CSV com **DADOS FICTÍCIOS** fornecido como base de dados, [Clicando AQUI](https://docs.google.com/spreadsheets/d/1bmImQvoLgk0EuptAjr5PAuKcvIfIV8ehGYtLTbzRBfI/edit?usp=sharing)
 
 ### Conjunto de Dados
 
