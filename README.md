@@ -1,4 +1,4 @@
-# Projeto de Gerenciamento de dados em grande volume
+# Projeto de Gerenciamento de dados em grandes volumes
 
 ## Desvendando os Segredos dos Dados
 
