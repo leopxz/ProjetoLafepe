@@ -37,17 +37,17 @@ streamlit run main.py
 O projeto estará disponível em localhost.
 
 ## Estrutura
-A estrutura de pastas e arquivos do projeto segue o padrão abaixo:
-
-ProjetoLafepe/
-├── .vscode/            # Configurações do ambiente de desenvolvimento
-├── Pages/Produtos/      # Páginas relacionadas aos produtos
-├── controllers/         # Controladores para lógica de negócio e rotas
-├── models/              # Modelos de dados e entidades
-├── services/            # Serviços e lógica de aplicação
-├── main.py              # Arquivo principal que inicia a aplicação
-└── README.md            # Documentação do projeto
-
+A estrutura de pastas e arquivos do projeto segue o padrão abaixo:<br>
+<br>
+ProjetoLafepe/<br>
+├── .vscode/            # Configurações do ambiente de desenvolvimento<br>
+├── Pages/Produtos/      # Páginas relacionadas aos produtos<br>
+├── controllers/         # Controladores para lógica de negócio e rotas<br>
+├── models/              # Modelos de dados e entidades<br>
+├── services/            # Serviços e lógica de aplicação<br>
+├── main.py              # Arquivo principal que inicia a aplicação<br>
+└── README.md            # Documentação do projeto<br>
+<br>
 
 
 
