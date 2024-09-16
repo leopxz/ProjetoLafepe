@@ -1,35 +1,55 @@
 # Projeto de Gerenciamento de dados em grandes volumes
 
-## Desvendando os Segredos dos Dados
+## Contexto
 
-Bem-vindo!
-Nesse projeto você vai encontrar um sistema de gerenciamento ! Este projeto é construído usando as bibliotecas Streamlit e Plotly em Python, com o objetivo de gerenciar e visualizar os dados em grande escala, onde você pode filtrar os dados cadastrados por mês, e também pode visualizar em formato de barras, pizza, histograma, linha, entre outros.
+Nesse projeto você vai encontrar um sistema de gerenciamento e automatização de processos e análise de dados. Este projeto é construído usando as bibliotecas Streamlit e Plotly em Python, com o objetivo de gerenciar e visualizar os dados em grande escala, onde você pode filtrar os dados cadastrados por mês, e também pode visualizar em formato de barras, pizza, histograma, linha, entre outros.
 
-### Visão geral
+## Configuração
 
-Esta aplicação fornece visualizações interativas para analisar vários insumos cadastrados com base nos dados de entrada, incluindo:
+Para executar este projeto localmente, siga os passos abaixo para configurar o ambiente:
 
-- **Gráfico de Barras**
-- **Gráfico de Pizza**
-- **Gráfico de Linha**
-- **Gráfico de Dispersão**
-- **Gráfico de Caixa** 
-- **Gráfico de Histograma**
-  
-### Começando
-Para executar este aplicativo localmente, siga os passos abaixo:
-
-**Clone este repositório:**
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
-
-**Navegue até o diretório do projeto:**
-cd nome-do-repositorio
-
-**Instale as dependências necessárias:**
+Clone o repositório:
+```
+git clone https://github.com/leopxz/ProjetoLafepe.git
+```
+Navegue até o diretório do projeto:
+```
+cd ProjetoLafepe
+```
+Instale as depêndencias necessárias:
+```
+pip install -r requirements.txt
+```
+```
 pip install streamlit
+```
 
-**Execute o aplicativo usando Python:**
+## Execução
+
+Para rodar o projeto, siga os seguintes passos:
+
+
+Certifique-se de que as dependências foram instaladas.
+Execute o script principal:
+```
 streamlit run main.py
+```
+O projeto estará disponível em localhost.
+
+## Estrutura
+A estrutura de pastas e arquivos do projeto segue o padrão abaixo:
+
+ProjetoLafepe/
+├── .vscode/            # Configurações do ambiente de desenvolvimento
+├── Pages/Produtos/      # Páginas relacionadas aos produtos
+├── controllers/         # Controladores para lógica de negócio e rotas
+├── models/              # Modelos de dados e entidades
+├── services/            # Serviços e lógica de aplicação
+├── main.py              # Arquivo principal que inicia a aplicação
+└── README.md            # Documentação do projeto
+
+
+
 
 ### Conjunto de Dados
 
